@@ -1,2 +1,3 @@
-# UPIC图床文件
-typora使用upic app上传图片
+# PIC图床文件
+- markdown文件上传图片
+- 关联typora或obsidian应用
